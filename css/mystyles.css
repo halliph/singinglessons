@@ -1,0 +1,7 @@
+body {font-family:'Courier New', Courier, monospace;}
+.site-heading {font-family: cascadia code; }
+.mb-3{ font-family: cascadia code;}
+a{ font-family: cascadia code; font-size: 200%;}
+#mainNav{
+    background-color: cadetblue;
+}
